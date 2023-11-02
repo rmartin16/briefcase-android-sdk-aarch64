@@ -1,0 +1,3 @@
+The emulator is quite large and also unnecessary to build Android packages using Briefcase.
+
+These files simply mock the presence of the emulator since the SDK manager requires it to be installed.
